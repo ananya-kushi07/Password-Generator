@@ -1,3 +1,4 @@
+# Description 
 Generating the password by giving user option to input:
 (i)lenght of the password.
 (ii)how many letters are required.
